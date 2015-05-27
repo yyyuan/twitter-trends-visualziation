@@ -1,0 +1,181 @@
+time,location,name,rank
+2015-02-23T01:06:54Z,Albuquerque,#OscarsRedCarpet,1
+2015-02-23T01:06:54Z,Albuquerque,#8morecampuses,2
+2015-02-23T01:06:54Z,Albuquerque,#RedCarpetOscar,3
+2015-02-23T01:06:49Z,Atlanta,#Oscars2015,1
+2015-02-23T01:06:49Z,Atlanta,Zoe Saldana,2
+2015-02-23T01:06:49Z,Atlanta,#AskHerMore,3
+2015-02-23T01:03:13Z,Austin,#Oscars2015,1
+2015-02-23T01:03:13Z,Austin,Dakota Johnson,2
+2015-02-23T01:03:13Z,Austin,#Daytona500,3
+2015-02-23T01:06:50Z,Baltimore,#Oscars2015,1
+2015-02-23T01:06:50Z,Baltimore,Zoe Saldana,2
+2015-02-23T01:06:50Z,Baltimore,#AskHerMore,3
+2015-02-23T01:06:51Z,Baton Rouge,Waffle House,1
+2015-02-23T01:06:51Z,Baton Rouge,Jarell Martin,2
+2015-02-23T01:06:51Z,Baton Rouge,Walmart,3
+2015-02-23T01:06:51Z,Birmingham,#Oscars2015,1
+2015-02-23T01:06:51Z,Birmingham,#Daytona500,2
+2015-02-23T01:06:51Z,Birmingham,Waffle House,3
+2015-02-23T01:06:49Z,Boston,#Oscars2015,1
+2015-02-23T01:06:49Z,Boston,#ERedCarpet,2
+2015-02-23T01:06:49Z,Boston,#AskHerMore,3
+2015-02-23T01:03:12Z,Charlotte,#Oscars2015,1
+2015-02-23T01:03:12Z,Charlotte,#Daytona500,2
+2015-02-23T01:03:12Z,Charlotte,Joey Logano,3
+2015-02-23T01:06:49Z,Chicago,#OscarsRedCarpet,1
+2015-02-23T01:06:49Z,Chicago,#AskHerMore,2
+2015-02-23T01:06:49Z,Chicago,#ERedCarpet,3
+2015-02-23T01:06:50Z,Cincinnati,#Oscars2015,1
+2015-02-23T01:06:50Z,Cincinnati,#Daytona500,2
+2015-02-23T01:06:50Z,Cincinnati,#ERedCarpet,3
+2015-02-23T01:06:50Z,Cleveland,#Oscars2015,1
+2015-02-23T01:06:50Z,Cleveland,#ERedCarpet,2
+2015-02-23T01:06:50Z,Cleveland,Zoe Saldana,3
+2015-02-23T01:06:54Z,Colorado Springs,#OscarsRedCarpet,1
+2015-02-23T01:06:54Z,Colorado Springs,#8morecampuses,2
+2015-02-23T01:06:54Z,Colorado Springs,#RedCarpetOscar,3
+2015-02-23T01:06:50Z,Columbus,#Oscars2015,1
+2015-02-23T01:06:50Z,Columbus,#Daytona500,2
+2015-02-23T01:06:50Z,Columbus,Joey Logano,3
+2015-02-23T01:06:49Z,Dallas-Ft. Worth,#Oscars2015,1
+2015-02-23T01:06:49Z,Dallas-Ft. Worth,Eagle Alert,2
+2015-02-23T01:06:49Z,Dallas-Ft. Worth,#ERedCarpet,3
+2015-02-23T01:06:49Z,Denver,#Oscars2015,1
+2015-02-23T01:06:49Z,Denver,#Daytona500,2
+2015-02-23T01:06:49Z,Denver,#AskHerMore,3
+2015-02-23T01:06:49Z,Detroit,#Oscars2015,1
+2015-02-23T01:06:49Z,Detroit,#ERedCarpet,2
+2015-02-23T01:06:49Z,Detroit,Zoe Saldana,3
+2015-02-23T01:06:54Z,El Paso,Taking Back Sunday,1
+2015-02-23T01:06:54Z,El Paso,Selena,2
+2015-02-23T01:06:54Z,El Paso,UTEP,3
+2015-02-23T01:06:50Z,Harrisburg,#Oscars2015,1
+2015-02-23T01:06:50Z,Harrisburg,Thon,2
+2015-02-23T01:06:50Z,Harrisburg,Tarzan,3
+2015-02-23T01:06:51Z,Honolulu,UC Davis,1
+2015-02-23T01:06:51Z,Honolulu,Walmart,2
+2015-02-23T01:06:51Z,Honolulu,Sweet,3
+2015-02-23T01:03:11Z,Houston,#Oscars2015,1
+2015-02-23T01:03:11Z,Houston,#ERedCarpet,2
+2015-02-23T01:03:11Z,Houston,Zoe Saldana,3
+2015-02-23T01:06:50Z,Indianapolis,#Oscars2015,1
+2015-02-23T01:06:50Z,Indianapolis,The Oscars,2
+2015-02-23T01:06:50Z,Indianapolis,Rosamund Pike,3
+2015-02-23T01:03:14Z,Jackson,Waffle House,1
+2015-02-23T01:03:14Z,Jackson,Walmart,2
+2015-02-23T01:03:14Z,Jackson,Thought,3
+2015-02-23T01:06:53Z,Jacksonville,#Oscars2015,1
+2015-02-23T01:06:53Z,Jacksonville,Winston,2
+2015-02-23T01:06:53Z,Jacksonville,Waffle House,3
+2015-02-23T01:03:18Z,Kansas City,#Oscars2015,1
+2015-02-23T01:03:18Z,Kansas City,#Daytona500,2
+2015-02-23T01:03:18Z,Kansas City,The Oscars,3
+2015-02-23T01:06:50Z,Las Vegas,#Oscars2015,1
+2015-02-23T01:06:50Z,Las Vegas,#Daytona500,2
+2015-02-23T01:06:50Z,Las Vegas,#UFCPOA,3
+2015-02-23T01:06:49Z,Los Angeles,#OscarsRedCarpet,1
+2015-02-23T01:06:49Z,Los Angeles,#AskHerMore,2
+2015-02-23T01:06:49Z,Los Angeles,Melanie Griffith,3
+2015-02-23T01:03:12Z,Louisville,#Oscars2015,1
+2015-02-23T01:03:12Z,Louisville,Chris Jones,2
+2015-02-23T01:03:12Z,Louisville,Auburn,3
+2015-02-23T01:03:12Z,Memphis,Waffle House,1
+2015-02-23T01:03:12Z,Memphis,Wright State,2
+2015-02-23T01:03:12Z,Memphis,#GoTigersGo,3
+2015-02-23T01:06:54Z,Mesa,#OscarsRedCarpet,1
+2015-02-23T01:06:54Z,Mesa,#8morecampuses,2
+2015-02-23T01:06:54Z,Mesa,#RedCarpetOscar,3
+2015-02-23T01:06:50Z,Miami,#Oscars2015,1
+2015-02-23T01:06:50Z,Miami,#ERedCarpet,2
+2015-02-23T01:06:50Z,Miami,Zoe Saldana,3
+2015-02-23T01:06:51Z,Milwaukee,#UWMdragshow,1
+2015-02-23T01:06:51Z,Milwaukee,#Oscars2015,2
+2015-02-23T01:06:51Z,Milwaukee,#Daytona500,3
+2015-02-23T01:03:11Z,Minneapolis,#Oscars2015,1
+2015-02-23T01:03:11Z,Minneapolis,#MiracleOnIce,2
+2015-02-23T01:03:11Z,Minneapolis,#Daytona500,3
+2015-02-23T01:06:50Z,Nashville,#Oscars2015,1
+2015-02-23T01:06:50Z,Nashville,#Daytona500,2
+2015-02-23T01:06:50Z,Nashville,#NOAH2Nashvilles,3
+2015-02-23T01:06:50Z,New Haven,#Oscars2015,1
+2015-02-23T01:06:50Z,New Haven,#Daytona500,2
+2015-02-23T01:06:50Z,New Haven,Joey Logano,3
+2015-02-23T01:03:13Z,New Orleans,#Oscars2015,1
+2015-02-23T01:03:13Z,New Orleans,Zoe Saldana,2
+2015-02-23T01:03:13Z,New Orleans,Waffle House,3
+2015-02-23T01:06:49Z,New York,#OscarsRedCarpet,1
+2015-02-23T01:06:49Z,New York,#AskHerMore,2
+2015-02-23T01:06:49Z,New York,Zoe Saldana,3
+2015-02-23T01:06:50Z,Norfolk,#Oscars2015,1
+2015-02-23T01:06:50Z,Norfolk,Zoe Saldana,2
+2015-02-23T01:06:50Z,Norfolk,#Daytona500,3
+2015-02-23T01:03:19Z,Oklahoma City,#Oscars2015,1
+2015-02-23T01:03:19Z,Oklahoma City,Thunder,2
+2015-02-23T01:03:19Z,Oklahoma City,Sam Presti,3
+2015-02-23T01:06:54Z,Omaha,Tim Miles,1
+2015-02-23T01:06:54Z,Omaha,The Oscars,2
+2015-02-23T01:06:54Z,Omaha,Winston,3
+2015-02-23T01:06:50Z,Orlando,#FullSailOscars,1
+2015-02-23T01:06:50Z,Orlando,#Oscars2015,2
+2015-02-23T01:06:50Z,Orlando,#Daytona500,3
+2015-02-23T01:06:49Z,Philadelphia,#OscarsRedCarpet,1
+2015-02-23T01:06:49Z,Philadelphia,#AskHerMore,2
+2015-02-23T01:06:49Z,Philadelphia,#ERedCarpet,3
+2015-02-23T01:06:49Z,Phoenix,#Oscars2015,1
+2015-02-23T01:06:49Z,Phoenix,#NashOnTheView,2
+2015-02-23T01:06:49Z,Phoenix,#DbacksFanFest,3
+2015-02-23T01:06:50Z,Pittsburgh,#Oscars2015,1
+2015-02-23T01:06:50Z,Pittsburgh,Staal,2
+2015-02-23T01:06:50Z,Pittsburgh,#ERedCarpet,3
+2015-02-23T01:06:50Z,Portland,#Oscars2015,1
+2015-02-23T01:06:50Z,Portland,West Linn,2
+2015-02-23T01:06:50Z,Portland,Toni,3
+2015-02-23T01:06:51Z,Providence,#Oscars2015,1
+2015-02-23T01:06:51Z,Providence,#Daytona500,2
+2015-02-23T01:06:51Z,Providence,Walmart,3
+2015-02-23T01:06:50Z,Raleigh,#Oscars2015,1
+2015-02-23T01:06:50Z,Raleigh,#Daytona500,2
+2015-02-23T01:06:50Z,Raleigh,Dakota Johnson,3
+2015-02-23T01:06:51Z,Richmond,#Oscars2015,1
+2015-02-23T01:06:51Z,Richmond,Richmond,2
+2015-02-23T01:06:51Z,Richmond,Winston,3
+2015-02-23T01:03:11Z,Sacramento,#NashOnTheView,1
+2015-02-23T01:03:11Z,Sacramento,#Oscars,2
+2015-02-23T01:03:11Z,Sacramento,#Daytona500,3
+2015-02-23T01:06:50Z,Salt Lake City,The Oscars,1
+2015-02-23T01:06:50Z,Salt Lake City,#L2E2015,2
+2015-02-23T01:06:50Z,Salt Lake City,Utes,3
+2015-02-23T01:06:50Z,San Antonio,#Oscars2015,1
+2015-02-23T01:06:50Z,San Antonio,The Oscars,2
+2015-02-23T01:06:50Z,San Antonio,Zoe Saldana,3
+2015-02-23T01:06:50Z,San Diego,#Oscars2015,1
+2015-02-23T01:06:50Z,San Diego,The Oscars,2
+2015-02-23T01:06:50Z,San Diego,#Daytona500,3
+2015-02-23T01:06:50Z,San Francisco,#OscarsRedCarpet,1
+2015-02-23T01:06:50Z,San Francisco,#AskHerMore,2
+2015-02-23T01:06:50Z,San Francisco,#ERedCarpet,3
+2015-02-23T01:03:17Z,San Jose,#OscarsRedCarpet,1
+2015-02-23T01:03:17Z,San Jose,#RedCarpetOscar,2
+2015-02-23T01:03:17Z,San Jose,#8morecampuses,3
+2015-02-23T01:06:49Z,Seattle,#Oscars2015,1
+2015-02-23T01:06:49Z,Seattle,Rosamund Pike,2
+2015-02-23T01:06:49Z,Seattle,#Daytona500,3
+2015-02-23T01:06:50Z,St. Louis,#Oscars2015,1
+2015-02-23T01:06:50Z,St. Louis,#ERedCarpet,2
+2015-02-23T01:06:50Z,St. Louis,#AskHerMore,3
+2015-02-23T01:06:51Z,Tallahassee,#FAMUPageant2k15,1
+2015-02-23T01:06:51Z,Tallahassee,Winston,2
+2015-02-23T01:06:51Z,Tallahassee,Tallahassee,3
+2015-02-23T01:03:12Z,Tampa,#Oscars2015,1
+2015-02-23T01:03:12Z,Tampa,#ERedCarpet,2
+2015-02-23T01:03:12Z,Tampa,#Daytona500,3
+2015-02-23T01:06:53Z,Tucson,#OscarsRedCarpet,1
+2015-02-23T01:06:53Z,Tucson,#8morecampuses,2
+2015-02-23T01:06:53Z,Tucson,#RedCarpetOscar,3
+2015-02-23T01:03:18Z,Virginia Beach,#OscarsRedCarpet,1
+2015-02-23T01:03:18Z,Virginia Beach,#RedCarpetOscar,2
+2015-02-23T01:03:18Z,Virginia Beach,#8morecampuses,3
+2015-02-23T01:06:50Z,Washington,#OscarsRedCarpet,1
+2015-02-23T01:06:50Z,Washington,#ERedCarpet,2
+2015-02-23T01:06:50Z,Washington,#AskHerMore,3

@@ -1,0 +1,61 @@
+location,timeZone,index
+Atlanta,-5,60
+Baltimore,-5,59
+Boston,-5,58
+Charlotte,-5,57
+Cincinnati,-5,56
+Cleveland,-5,55
+Columbus,-5,54
+Detroit,-5,53
+Harrisburg,-5,52
+Indianapolis,-5,51
+Jacksonville,-5,50
+Louisville,-5,49
+Miami,-5,48
+New Haven,-5,47
+New York,-5,46
+Norfolk,-5,45
+Orlando,-5,44
+Philadelphia,-5,43
+Pittsburgh,-5,42
+Providence,-5,41
+Raleigh,-5,40
+Richmond,-5,39
+Tallahassee,-5,38
+Tampa,-5,37
+Virginia Beach,-5,36
+Washington,-5,35
+Austin,-6,34
+Baton Rouge,-6,33
+Birmingham,-6,32
+Chicago,-6,31
+Dallas-Ft. Worth,-6,30
+Houston,-6,29
+Jackson,-6,28
+Kansas City,-6,27
+Memphis,-6,26
+Milwaukee,-6,25
+Minneapolis,-6,24
+Nashville,-6,23
+New Orleans,-6,22
+Oklahoma City,-6,21
+Omaha,-6,20
+San Antonio,-6,19
+St. Louis,-6,18
+Albuquerque,-7,17
+Colorado Springs,-7,16
+Denver,-7,15
+El Paso,-7,14
+Mesa,-7,13
+Phoenix,-7,12
+Salt Lake City,-7,11
+Tucson,-7,10
+Las Vegas,-8,9
+Los Angeles,-8,8
+Portland,-8,7
+Sacramento,-8,6
+San Diego,-8,5
+San Francisco,-8,4
+San Jose,-8,3
+Seattle,-8,2
+Honolulu,-10,1

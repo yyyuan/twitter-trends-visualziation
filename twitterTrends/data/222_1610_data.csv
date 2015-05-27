@@ -1,0 +1,181 @@
+time,location,name,rank
+2015-02-23T00:05:20Z,Albuquerque,#OscarsRedCarpet,1
+2015-02-23T00:05:20Z,Albuquerque,#HappyAnniversaryLarry,2
+2015-02-23T00:05:20Z,Albuquerque,Naomi Watts,3
+2015-02-23T00:05:14Z,Atlanta,#Oscars2015,1
+2015-02-23T00:05:14Z,Atlanta,#Daytona500,2
+2015-02-23T00:05:14Z,Atlanta,Joey Logano,3
+2015-02-23T00:05:16Z,Austin,#Oscars2015,1
+2015-02-23T00:05:16Z,Austin,#Daytona500,2
+2015-02-23T00:05:16Z,Austin,The Oscars,3
+2015-02-23T00:09:11Z,Baltimore,#Oscars2015,1
+2015-02-23T00:09:11Z,Baltimore,#CapsFlyers,2
+2015-02-23T00:09:11Z,Baltimore,Tarzan,3
+2015-02-23T00:05:16Z,Baton Rouge,Waffle House,1
+2015-02-23T00:05:16Z,Baton Rouge,Walmart,2
+2015-02-23T00:05:16Z,Baton Rouge,Jarell Martin,3
+2015-02-23T00:09:12Z,Birmingham,#Daytona500,1
+2015-02-23T00:09:12Z,Birmingham,Waffle House,2
+2015-02-23T00:09:12Z,Birmingham,#Oscars2015,3
+2015-02-23T00:05:14Z,Boston,#Oscars2015,1
+2015-02-23T00:05:14Z,Boston,#NashOnTheView,2
+2015-02-23T00:05:14Z,Boston,Carcillo,3
+2015-02-23T00:05:15Z,Charlotte,#Daytona500,1
+2015-02-23T00:05:15Z,Charlotte,Joey Logano,2
+2015-02-23T00:05:15Z,Charlotte,#NASCAR,3
+2015-02-23T00:09:10Z,Chicago,#CHIvsBOS,1
+2015-02-23T00:09:10Z,Chicago,#Oscars2015,2
+2015-02-23T00:09:10Z,Chicago,#NashOnTheView,3
+2015-02-23T00:09:12Z,Cincinnati,#Daytona500,1
+2015-02-23T00:09:12Z,Cincinnati,The Oscars,2
+2015-02-23T00:09:12Z,Cincinnati,#Oscars2015,3
+2015-02-23T00:09:11Z,Cleveland,#Oscars2015,1
+2015-02-23T00:09:11Z,Cleveland,#Daytona500,2
+2015-02-23T00:09:11Z,Cleveland,#BetterThanTheKnicks,3
+2015-02-23T00:05:20Z,Colorado Springs,#OscarsRedCarpet,1
+2015-02-23T00:05:20Z,Colorado Springs,#HappyAnniversaryLarry,2
+2015-02-23T00:05:20Z,Colorado Springs,Naomi Watts,3
+2015-02-23T00:09:11Z,Columbus,#Daytona500,1
+2015-02-23T00:09:11Z,Columbus,Joey Logano,2
+2015-02-23T00:09:11Z,Columbus,The Oscars,3
+2015-02-23T00:05:14Z,Dallas-Ft. Worth,#Oscars2015,1
+2015-02-23T00:05:14Z,Dallas-Ft. Worth,#NashOnTheView,2
+2015-02-23T00:05:14Z,Dallas-Ft. Worth,#Daytona500,3
+2015-02-23T00:05:14Z,Denver,#Daytona500,1
+2015-02-23T00:05:14Z,Denver,#Oscars2015,2
+2015-02-23T00:05:14Z,Denver,#NASCAR,3
+2015-02-23T00:05:14Z,Detroit,#Oscars2015,1
+2015-02-23T00:05:14Z,Detroit,#BeatOhio,2
+2015-02-23T00:05:14Z,Detroit,#Daytona500,3
+2015-02-23T00:05:20Z,El Paso,Taking Back Sunday,1
+2015-02-23T00:05:20Z,El Paso,UTSA,2
+2015-02-23T00:05:20Z,El Paso,UTEP,3
+2015-02-23T00:05:15Z,Harrisburg,THON,1
+2015-02-23T00:05:15Z,Harrisburg,#Daytona500,2
+2015-02-23T00:05:15Z,Harrisburg,Tarzan,3
+2015-02-23T00:09:12Z,Honolulu,UC Davis,1
+2015-02-23T00:09:12Z,Honolulu,Walmart,2
+2015-02-23T00:09:12Z,Honolulu,Skype,3
+2015-02-23T00:09:10Z,Houston,#NashOnTheView,1
+2015-02-23T00:09:10Z,Houston,#Oscars2015,2
+2015-02-23T00:09:10Z,Houston,#ERedCarpet,3
+2015-02-23T00:05:15Z,Indianapolis,#Daytona500,1
+2015-02-23T00:05:15Z,Indianapolis,The Oscars,2
+2015-02-23T00:05:15Z,Indianapolis,Joey Logano,3
+2015-02-23T00:05:16Z,Jackson,Waffle House,1
+2015-02-23T00:05:16Z,Jackson,Walmart,2
+2015-02-23T00:05:16Z,Jackson,Scandal,3
+2015-02-23T00:09:17Z,Jacksonville,Winston,1
+2015-02-23T00:09:17Z,Jacksonville,Waffle House,2
+2015-02-23T00:09:17Z,Jacksonville,Two Sentence Short Stories,3
+2015-02-23T00:05:20Z,Kansas City,#Daytona500,1
+2015-02-23T00:05:20Z,Kansas City,Walmart,2
+2015-02-23T00:05:20Z,Kansas City,State,3
+2015-02-23T00:09:12Z,Las Vegas,#Daytona500,1
+2015-02-23T00:09:12Z,Las Vegas,#Oscars2015,2
+2015-02-23T00:09:12Z,Las Vegas,The Duff,3
+2015-02-23T00:05:14Z,Los Angeles,#Oscars2015,1
+2015-02-23T00:05:14Z,Los Angeles,#NashOnTheView,2
+2015-02-23T00:05:14Z,Los Angeles,#HappyAnniversaryLarry,3
+2015-02-23T00:05:16Z,Louisville,Chris Jones,1
+2015-02-23T00:05:16Z,Louisville,Auburn,2
+2015-02-23T00:05:16Z,Louisville,Pitino,3
+2015-02-23T00:09:11Z,Memphis,Waffle House,1
+2015-02-23T00:09:11Z,Memphis,#Gotigersgo,2
+2015-02-23T00:09:11Z,Memphis,#bringit,3
+2015-02-23T00:09:18Z,Mesa,#OscarsRedCarpet,1
+2015-02-23T00:09:18Z,Mesa,#AskAndrew,2
+2015-02-23T00:09:18Z,Mesa,Zoe Saldana,3
+2015-02-23T00:05:15Z,Miami,#Oscars2015,1
+2015-02-23T00:05:15Z,Miami,The Oscars,2
+2015-02-23T00:05:15Z,Miami,#Daytona500,3
+2015-02-23T00:05:16Z,Milwaukee,#UWMdragshow,1
+2015-02-23T00:05:16Z,Milwaukee,#Daytona500,2
+2015-02-23T00:05:16Z,Milwaukee,Bucks,3
+2015-02-23T00:09:11Z,Minneapolis,#MiracleOnIce,1
+2015-02-23T00:09:11Z,Minneapolis,#Daytona500,2
+2015-02-23T00:09:11Z,Minneapolis,#Oscars2015,3
+2015-02-23T00:05:15Z,Nashville,#Daytona500,1
+2015-02-23T00:05:15Z,Nashville,#LHMomentum,2
+2015-02-23T00:05:15Z,Nashville,#noah2nashvilles,3
+2015-02-23T00:05:16Z,New Haven,#Daytona500,1
+2015-02-23T00:05:16Z,New Haven,Joey Logano,2
+2015-02-23T00:05:16Z,New Haven,#Oscars2015,3
+2015-02-23T00:09:12Z,New Orleans,Waffle House,1
+2015-02-23T00:09:12Z,New Orleans,West Bank,2
+2015-02-23T00:09:12Z,New Orleans,Walmart,3
+2015-02-23T00:05:14Z,New York,#OscarsRedCarpet,1
+2015-02-23T00:05:14Z,New York,#HappyAnniversaryLarry,2
+2015-02-23T00:05:14Z,New York,Margot Robbie,3
+2015-02-23T00:05:16Z,Norfolk,#Daytona500,1
+2015-02-23T00:05:16Z,Norfolk,#Oscars2015,2
+2015-02-23T00:05:16Z,Norfolk,Walmart,3
+2015-02-23T00:05:20Z,Oklahoma City,#ThunderUp,1
+2015-02-23T00:05:20Z,Oklahoma City,Perk,2
+2015-02-23T00:05:20Z,Oklahoma City,Kanter,3
+2015-02-23T00:05:20Z,Omaha,Winston,1
+2015-02-23T00:05:20Z,Omaha,The Duff,2
+2015-02-23T00:05:20Z,Omaha,Tim Miles,3
+2015-02-23T00:05:15Z,Orlando,#Daytona500,1
+2015-02-23T00:05:15Z,Orlando,#FullSailOscars,2
+2015-02-23T00:05:15Z,Orlando,#Oscars2015,3
+2015-02-23T00:09:10Z,Philadelphia,#OscarsRedCarpet,1
+2015-02-23T00:09:10Z,Philadelphia,#HappyAnniversaryLarry,2
+2015-02-23T00:09:10Z,Philadelphia,#NashOnTheView,3
+2015-02-23T00:09:10Z,Phoenix,#NashOnTheView,1
+2015-02-23T00:09:10Z,Phoenix,#Oscars2015,2
+2015-02-23T00:09:10Z,Phoenix,#DbacksFanFest,3
+2015-02-23T00:09:12Z,Pittsburgh,Staal,1
+2015-02-23T00:09:12Z,Pittsburgh,#Oscars2015,2
+2015-02-23T00:09:12Z,Pittsburgh,#Daytona500,3
+2015-02-23T00:05:15Z,Portland,West Linn,1
+2015-02-23T00:05:15Z,Portland,#Oscars2015,2
+2015-02-23T00:05:15Z,Portland,Toni,3
+2015-02-23T00:05:16Z,Providence,The Bruins,1
+2015-02-23T00:05:16Z,Providence,#Daytona500,2
+2015-02-23T00:05:16Z,Providence,Walmart,3
+2015-02-23T00:05:16Z,Raleigh,#Daytona500,1
+2015-02-23T00:05:16Z,Raleigh,Joey Logano,2
+2015-02-23T00:05:16Z,Raleigh,#Oscars2015,3
+2015-02-23T00:05:16Z,Richmond,UMASS,1
+2015-02-23T00:05:16Z,Richmond,Richmond,2
+2015-02-23T00:05:16Z,Richmond,#Daytona500,3
+2015-02-23T00:05:14Z,Sacramento,#NashOnTheView,1
+2015-02-23T00:05:14Z,Sacramento,#Daytona500,2
+2015-02-23T00:05:14Z,Sacramento,The Duff,3
+2015-02-23T00:05:16Z,Salt Lake City,The Oscars,1
+2015-02-23T00:05:16Z,Salt Lake City,Utes,2
+2015-02-23T00:05:16Z,Salt Lake City,Zags,3
+2015-02-23T00:09:10Z,San Antonio,#Oscars,1
+2015-02-23T00:09:10Z,San Antonio,The DUFF,2
+2015-02-23T00:09:10Z,San Antonio,Spurs,3
+2015-02-23T00:05:15Z,San Diego,#Oscars2015,1
+2015-02-23T00:05:15Z,San Diego,The Oscars,2
+2015-02-23T00:05:15Z,San Diego,#Daytona500,3
+2015-02-23T00:09:10Z,San Francisco,#Oscars2015,1
+2015-02-23T00:09:10Z,San Francisco,#NashOnTheView,2
+2015-02-23T00:09:10Z,San Francisco,#NeverBeAloneMusicVideo,3
+2015-02-23T00:09:17Z,San Jose,#OscarsRedCarpet,1
+2015-02-23T00:09:17Z,San Jose,#AskAndrew,2
+2015-02-23T00:09:17Z,San Jose,Zoe Saldana,3
+2015-02-23T00:05:14Z,Seattle,#Daytona500,1
+2015-02-23T00:05:14Z,Seattle,#Oscars,2
+2015-02-23T00:05:14Z,Seattle,Tacoma,3
+2015-02-23T00:09:11Z,St. Louis,#Oscars2015,1
+2015-02-23T00:09:11Z,St. Louis,#Daytona500,2
+2015-02-23T00:09:11Z,St. Louis,Walmart,3
+2015-02-23T00:05:16Z,Tallahassee,#FAMUPageant2k15,1
+2015-02-23T00:05:16Z,Tallahassee,Winston,2
+2015-02-23T00:05:16Z,Tallahassee,Tallahassee,3
+2015-02-23T00:09:11Z,Tampa,#Daytona500,1
+2015-02-23T00:09:11Z,Tampa,#Oscars2015,2
+2015-02-23T00:09:11Z,Tampa,Joey Logano,3
+2015-02-23T00:05:20Z,Tucson,#OscarsRedCarpet,1
+2015-02-23T00:05:20Z,Tucson,#HappyAnniversaryLarry,2
+2015-02-23T00:05:20Z,Tucson,Naomi Watts,3
+2015-02-23T00:05:20Z,Virginia Beach,#OscarsRedCarpet,1
+2015-02-23T00:05:20Z,Virginia Beach,#HappyAnniversaryLarry,2
+2015-02-23T00:05:20Z,Virginia Beach,Naomi Watts,3
+2015-02-23T00:09:10Z,Washington,#Oscars2015,1
+2015-02-23T00:09:10Z,Washington,#NashOnTheView,2
+2015-02-23T00:09:10Z,Washington,#CapsFlyers,3

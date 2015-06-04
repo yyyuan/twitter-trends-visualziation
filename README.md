@@ -1,5 +1,6 @@
 # Twitter Trends Visualization
 This is the visualziation in processing to visualize the location based twitter trends data. 
+*The documentation folder includes a screenshot for the visualization and a gif for short demo*
 
 ## Current Data Set
 The current visualized data set is the data collected on 2/22/2015. The data was collected for 60 cities around United States, with each city's top three Twitter trends at a specific time. I didn't spend much time cleaning the data format, so the trends were in the raw format returned by Twitter.
@@ -20,3 +21,4 @@ City names, time, trends' name, time zone.
 
 ## Notes
 Love any feedback for this visualization!!
+
